@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 'RM-CV Wiki'
 subtitle: ''
-description: ''
+description: 'Some wiki about RoboMaster CV, etc.'
 keywords:
 author: John Doe
-language: en
-timezone: ''
+language: zh-Hans
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://muc-rm-cv.github.io/wiki/
+root: /wiki/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
